@@ -1,0 +1,56 @@
+body {
+    font-family: courier new;
+    line-height: 1.4em;
+  }
+  
+  a {
+    color: rgb(246, 144, 255);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(246, 144, 255);
+  }
+  
+  ul {
+    padding: 0;
+    color: rgb(246, 144, 255);
+    display: inline;
+  }
+
+  p {
+    color:rgb(246, 144, 255);
+  }
+
+  h1 {
+    color:rgb(246, 144, 255);
+    text-decoration: underline;
+  }
+
+  h3 {
+    color: rgb(8, 255, 202);
+    text-decoration: underline;
+  }
+
+  h4 {
+    color: rgb(255, 128, 204);
+    text-decoration: underline;
+  }
+
+  nav {
+    background-color: rgb(170, 29, 225);
+  }
+
+  nav li {
+    font-size: 14pt;
+  }
+
+  table, thead, th {
+    border:3px solid black;
+  }
+
+  th {
+    font-size:12pt;
+  }
+  
+ 
